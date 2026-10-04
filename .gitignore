@@ -1,0 +1,15 @@
+# OS 杂项
+Thumbs.db
+Desktop.ini
+desktop.ini
+.DS_Store
+
+# 编辑器 / IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# 临时文件
+*.tmp
+*.log
